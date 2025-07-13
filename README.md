@@ -128,4 +128,4 @@ REST API: Expose booking features via a Spring Boot backend.
 
 
 
-Built with 💪 by Puja Yadav, Java Enthusiast and Future Tech Leader.
+Built 💪 by Puja Yadav, Java Enthusiast and Future Tech Leader.
