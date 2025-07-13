@@ -75,7 +75,7 @@ Git (to clone the repo)
 Setup
 
 1. Clone the Repository:
-git clone https://github.com/AtharvaKumar/Ticket_Booking_System.git
+git clone https://github.com/pujayadav357/Ticket_Booking.git
 cd Ticket_Booking_System
 
 
