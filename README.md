@@ -1,4 +1,4 @@
-🚂 Ticket Booking System: A Java Masterpiece by Atharva Kumar
+🚂 Ticket Booking System: A Java Masterpiece by Puja Yadav
 
 Welcome to the Ticket Booking System, a console-based train reservation powerhouse crafted with pure Java brilliance! This project is not just an application—it’s a testament to my journey of mastering core Java concepts, conquering complex programming challenges, and building a robust, feature-rich system from the ground up.
 
@@ -128,4 +128,4 @@ REST API: Expose booking features via a Spring Boot backend.
 
 
 
-Built with 💪 by Atharva Kumar, Java Enthusiast and Future Tech Leader.
+Built with 💪 by Puja Yadav, Java Enthusiast and Future Tech Leader.
